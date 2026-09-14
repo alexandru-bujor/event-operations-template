@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Minus, Plus, Trash2, CheckCircle2, Printer, Mail, RefreshCw, X } from "lucide-react";
+import { Minus, Plus, CheckCircle2, Printer, Mail, RefreshCw, X } from "lucide-react";
 import { useApp } from "@/lib/AppContext";
 import PageHeader from "@/components/ui/PageHeader";
 import { RON } from "@/lib/format";

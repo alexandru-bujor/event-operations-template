@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Settings, Ticket, Map, ShieldCheck, Car, Percent, Users, GalleryThumbnails, Heart, UserCog, Bell } from "lucide-react";
 import PageHeader from "@/components/ui/PageHeader";
-import SectionCard from "@/components/ui/SectionCard";
 import { useApp } from "@/lib/AppContext";
 import { RON } from "@/lib/format";
 import { cn } from "@/lib/utils";

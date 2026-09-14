@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 import {
-    Ticket, Users, Car, Wallet, Flag, AlertTriangle, GalleryThumbnails, HardHat, Radio,
-    Activity, ArrowUpRight, Plus,
+    Ticket, Users, Car, Wallet, Flag, AlertTriangle, GalleryThumbnails, HardHat,
+    Activity, ArrowUpRight,
 } from "lucide-react";
 import { useApp } from "@/lib/AppContext";
 import StatCard from "@/components/ui/StatCard";

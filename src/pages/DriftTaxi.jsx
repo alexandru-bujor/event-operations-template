@@ -3,8 +3,8 @@ import { Car, CheckCircle2, X, Printer, Users } from "lucide-react";
 import { useApp } from "@/lib/AppContext";
 import PageHeader from "@/components/ui/PageHeader";
 import SectionCard from "@/components/ui/SectionCard";
-import StatusBadge, { statusTone } from "@/components/ui/StatusBadge";
-import { RON, NUM } from "@/lib/format";
+import StatusBadge from "@/components/ui/StatusBadge";
+import { RON } from "@/lib/format";
 import { cn } from "@/lib/utils";
 
 export default function DriftTaxi() {

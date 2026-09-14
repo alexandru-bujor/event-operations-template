@@ -3,7 +3,6 @@ import { AlertTriangle, Plus, X, Clock } from "lucide-react";
 import { useApp } from "@/lib/AppContext";
 import PageHeader from "@/components/ui/PageHeader";
 import StatusBadge, { statusTone, priorityTone } from "@/components/ui/StatusBadge";
-import SectionCard from "@/components/ui/SectionCard";
 import { INCIDENT_TYPES } from "@/lib/mockData";
 import { cn } from "@/lib/utils";
 

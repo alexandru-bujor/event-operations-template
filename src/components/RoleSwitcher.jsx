@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
-import { ChevronDown, User, Shield, Car, ScanLine, ClipboardCheck, Flag, GalleryThumbnails, Crown } from "lucide-react";
+import { ChevronDown, User, Shield, Car, ClipboardCheck, Flag, GalleryThumbnails, Crown } from "lucide-react";
 import { useApp } from "@/lib/AppContext";
 import { cn } from "@/lib/utils";
 

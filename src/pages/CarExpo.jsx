@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { GalleryThumbnails, Heart, CheckCircle2, X, Trophy, Lock, Unlock } from "lucide-react";
+import { GalleryThumbnails, Heart, Trophy, Lock, Unlock } from "lucide-react";
 import { useApp } from "@/lib/AppContext";
 import PageHeader from "@/components/ui/PageHeader";
 import StatCard from "@/components/ui/StatCard";

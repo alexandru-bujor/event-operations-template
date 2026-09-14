@@ -1,7 +1,7 @@
 import React from "react";
-import { Bell, Car, Clock, CheckCircle2, Users, Flag, AlertCircle } from "lucide-react";
+import { Bell, Car, Clock, Flag } from "lucide-react";
 import { useApp } from "@/lib/AppContext";
-import StatusBadge, { statusTone } from "@/components/ui/StatusBadge";
+import StatusBadge from "@/components/ui/StatusBadge";
 import { cn } from "@/lib/utils";
 
 export default function PilotDashboard() {

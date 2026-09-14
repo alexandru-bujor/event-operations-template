@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { ArrowLeft, Car, Calendar, Wrench, Trophy, FileText, Activity, Users as UsersIcon } from "lucide-react";
+import { ArrowLeft } from "lucide-react";
 import { useApp } from "@/lib/AppContext";
 import StatusBadge, { statusTone } from "@/components/ui/StatusBadge";
 import { RON } from "@/lib/format";

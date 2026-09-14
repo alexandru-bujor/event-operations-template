@@ -3,8 +3,7 @@ import { Shirt, Minus, Plus } from "lucide-react";
 import { useApp } from "@/lib/AppContext";
 import PageHeader from "@/components/ui/PageHeader";
 import StatusBadge from "@/components/ui/StatusBadge";
-import { RON, NUM } from "@/lib/format";
-import { toast } from "sonner";
+import { RON } from "@/lib/format";
 
 export default function Merchandise() {
     const { merch, merchCart, setMerchCart, sellMerch } = useApp();
