@@ -4,9 +4,8 @@ Frontend-only interactive prototype for a drift motorsport event operations
 platform (tickets, access control, Drift Taxi, track control, technical
 inspection, Car Expo, finance, and more).
 
-This project was scaffolded to mirror the file structure of the original
-Base44 build so development can continue outside the Base44 editor (code
-editing there is paid-plan only).
+Everything runs locally against mock data — no backend, no login, no
+external API.
 
 ## Getting started
 
